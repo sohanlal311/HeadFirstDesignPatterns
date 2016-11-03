@@ -1,4 +1,4 @@
-package con.sohan.h.mvc;
+package com.sohan.h.mvc;
 
 public class BeatModel implements BeatModelInterface {
 
